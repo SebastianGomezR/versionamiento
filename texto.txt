@@ -3,4 +3,5 @@ Main: Cambio a las 1:43
 Rama 1_ Cambio a las 1:44
 Rama 1: cambio a las 1:48
 Rama-2: cambio a las 1:58
+Rama-1: Cambio de rama 1 a rama 2 para jalar a main
 Soy rama 2 y tengo cambios pero tengo entendido que rama 1 tiene cambios y debo jalar de ahí
